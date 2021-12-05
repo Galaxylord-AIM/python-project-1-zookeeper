@@ -119,5 +119,9 @@ Switching on the camera in the rabbit habitat...
 (" ~----( ~   Y.  )
 It looks like we will soon have more rabbits!"""
 
-
 # write your code here
+animals = [camel, lion, deer, goose, bat, rabbit]
+view = int(input("Please enter the number of the habitat you would like to view:"))
+print(animals[view])
+print('''---
+You've reached the end of the program. To check another habitat, please restart the watcher.''')
