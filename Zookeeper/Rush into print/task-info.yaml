@@ -92,6 +92,9 @@ files:
 - name: zookeeper/zookeeper.py
   visible: true
   learner_created: false
-feedback_link: https://hyperskill.org/projects/98/stages/539/implement#comment
-status: Unchecked
-record: -1
+feedback_link: https://hyperskill.org/learn/step/8815#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sun, 05 Dec 2021 06:46:27 UTC
+record: 1
